@@ -1,8 +1,7 @@
 # Detective Conan 名偵探柯南<br> (Category: Misc, Points: 466, Solves: 17)
  Solve by T004 - Nessie explode 4
 
-
-### Challenge Description:
+Challenge Description:
 > There is only one truth! But the truth is in the past...if only there is a way back...<br>
 > 真相永遠只有一個！但係真相只存在於過去...如果有部時光機就好喇...
 > 
