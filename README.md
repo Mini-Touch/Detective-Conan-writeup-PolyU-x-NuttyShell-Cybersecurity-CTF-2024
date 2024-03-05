@@ -1,5 +1,5 @@
-# Detective Conan 名偵探柯南 (Misc) (466 points, 17 Solves)
-## Solve by name (from nessie explode 4)
+# Detective Conan 名偵探柯南<br> (Category: Misc, Points: 466, Solves: 17)
+ Solve by T004 - Nessie explode 4
 
 
 ### Challenge Description:
@@ -7,6 +7,9 @@
 > 真相永遠只有一個！但係真相只存在於過去...如果有部時光機就好喇...
 > 
 > Author 作者: PurpleSe4shell
+
+# Tmr sin make
+
 
 A .eml file given to us, and when we open it, we can see the following message:
 // Please replace the photo since it capture on my devices
